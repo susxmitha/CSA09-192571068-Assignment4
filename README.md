@@ -77,12 +77,5 @@ Default JDBC URL: `jdbc:mysql://localhost:3306/campus_events`. The application u
 - Q5: listener styles, valid conversion and invalid input.
 - Q6: database records, pagination, filtering, CSV export, empty-input validation and duplicate prevention.
 
-## Important notes
-- Task 1 payment is simulated.
-- Task 2 is submitted as a design artefact.
-- Task 6 requires MySQL and MySQL Connector/J at runtime.
-- Excel may show long IDs in scientific notation or timestamps as `#######`; widen columns and format Student ID as Text to inspect the CSV correctly.
-- The assignment requires progressive commits (at least one per task). Create task-wise commits where possible; do not claim commits that were not made.
-
 ## Result
-All six tasks have been implemented or designed as applicable and demonstrated with the screenshots stored in `evidence/`. The final report is supplied separately.
+All six tasks have been implemented or designed as applicable and demonstrated with the screenshots stored in `evidence/`. 
